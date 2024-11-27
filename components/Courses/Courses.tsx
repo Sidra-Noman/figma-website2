@@ -27,7 +27,7 @@ const Courses = () => {
                         className=" h-[534px] w-[416px] sm:w-[416px] bg-[#F7F7F7] gap-6 rounded-md"
                     >
                         <Image
-                            src={`/images/image1.png`}
+                            src={`/images/Image1.png`}
                             alt='image1'
                             height={300}
                             width={416}
@@ -70,7 +70,7 @@ const Courses = () => {
                    
                >
                    <Image
-                       src={`/images/image2.png`}
+                       src={`/images/Image2.png`}
                        alt='image2'
                        height={300}
                        width={416}
@@ -110,7 +110,7 @@ const Courses = () => {
                    
                >
                    <Image
-                       src={`/images/image3.png`}
+                       src={`/images/Image3.png`}
                        alt='image3'
                        height={300}
                        width={416}
@@ -149,7 +149,7 @@ const Courses = () => {
                    
                >
                    <Image
-                       src={`/images/image4.png`}
+                       src={`/images/Image4.png`}
                        alt='image4'
                        height={300}
                        width={416}
@@ -188,7 +188,7 @@ const Courses = () => {
                    
                >
                    <Image
-                       src={`/images/image5.png`}
+                       src={`/images/Image5.png`}
                        alt='image5'
                        height={300}
                        width={416}
@@ -228,7 +228,7 @@ const Courses = () => {
                    
                >
                    <Image
-                       src={`/images/image6.png`}
+                       src={`/images/Image6.png`}
                        alt='image6'
                        height={300}
                        width={416}
