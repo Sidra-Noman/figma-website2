@@ -7,6 +7,7 @@ import Coursescategory from '@/components/Coursescategory/Coursescategory'
 import Achievements from'@/components/Achievement/Achievement'
 import Courses from '@/components/Courses/Courses'
 import Team from '@/components/Team/Team'
+import Testimonials from '@/components/Testimonials/Testimonials'
    
    const page = () => {
      return (
@@ -17,7 +18,8 @@ import Team from '@/components/Team/Team'
          <Achievements/>
          <Courses/>
          <Team/>
-         <Footer/>
+         <Testimonials/>
+                <Footer/>
        </div>
      )
    }

@@ -30,9 +30,6 @@ const Achievements = () => {
         </div>
       </div>
     </section>
-
-
-
   );
 };
  export default Achievements;

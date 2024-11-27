@@ -270,7 +270,7 @@ const Courses = () => {
 
              {/* using shadcn ui */}
              <div className="flex items-center justify-center m-16">
-  <Button variant="outline" className="px-6 py-3 rounded-lg">
+  <Button variant="outline" className="px-6 py-3 rounded-lg border-black">
     View All Courses
   </Button>
 </div>
